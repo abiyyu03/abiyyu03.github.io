@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HAI</title>
+</head>
+<body>
+	Lorem Ipsum
+</body>
+</html>
